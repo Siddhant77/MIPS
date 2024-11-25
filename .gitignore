@@ -1,4 +1,4 @@
 # Ignore all .csv files
 *.csv
 /cyber
-.gitignore
+/mips
