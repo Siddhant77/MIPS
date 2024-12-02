@@ -2,3 +2,6 @@
 *.csv
 /cyber
 /mips
+/results
+/fakeNews_vanilla
+/fakeNews_adv
